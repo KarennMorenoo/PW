@@ -1,0 +1,60 @@
+body{
+    background-color: #eee1d3;
+}
+
+h1{
+    color: #7a0ac5;
+    text-align: center;
+}
+
+p{
+    color: #4130e0cc;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+button{
+    color: #044b21;
+    background-color: #eebbbb;
+}
+
+.logo{
+    width: 25%;
+}
+
+.navbar{
+    width: 70%;
+    text-align: 70%;
+    color: #88034c;
+    font-weight: 500;
+}
+
+.actions{
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.header{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 0;
+}
+
+.header > * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 80%;
+    line-height: 45px;
+}
+
+
+.publish h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #03494e
+}

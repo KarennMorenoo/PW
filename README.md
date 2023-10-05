@@ -1,4 +1,4 @@
 # PW
-Programación de dispositivos moviles 
+Programación web 
 5CV50
 Moreno Valdez Karen Leticia
